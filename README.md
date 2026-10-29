@@ -1,6 +1,6 @@
 # PLUG 01 — 販売LP
 
-Claude に差し込むプラグイン一式「PLUG 01 ／ つくる道具一式」の販売サイト。33,000円（税込）の買い切り。
+Claude に差し込むプラグイン一式「PLUG 01 ／ つくる道具一式」の販売サイト。10,000円（税込）の買い切り。
 運営ブランドは **FORGE**／販売事業者は **AIクリエイター**。静的HTML（ビルド不要）。
 
 2026-09-08 に `artigia` リポジトリ（AI Creator Camp）から分離した。
@@ -22,7 +22,7 @@ legal.css        法務ページ共通スタイル
 
 Stripe の Payment Link を `index.html` にベタ書き。**本番（Live）モード**。
 
-- PLUG 01：33,000円（税込・買い切り） https://buy.stripe.com/7sY00j0KX6udc7IcvO6g80i
+- PLUG 01：10,000円（税込・買い切り） https://buy.stripe.com/7sY00j0KX6udc7IcvO6g80i
   - Stripe Live: product `prod_VS5eIZL6L8IgTv` / price `price_1URBT6GV1dNJ9MiqcKG68Xa6`（2026-10-16作成）
   - 旧リンクは使わない：5,500円 eVq5kE3Od2233GFdXigfu04 ／ 5,000円 28E00j0KX2dXdbM0N66g80c ／ 500円 4gM00k0C1eOP6SRcTegfu03
 
